@@ -170,7 +170,6 @@ Logging sensitive user information is for demonstration purposes only. Do not de
 
 ## Future Improvements
 - Increasing the credibility of the website
-- 
 
 ---
 
