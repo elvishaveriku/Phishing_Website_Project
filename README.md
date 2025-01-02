@@ -73,7 +73,7 @@ project-directory/
 
 8. After clicking Login" check the newly created "pwned.txt" file in your local machine.
 
-![image](https://github.com/user-attachments/assets/ea6ef9b4-fb07-4f59-a297-9fb388770c87)
+![image](https://github.com/user-attachments/assets/2eae7fa1-34b4-49c4-995d-f79f58ea2775)
 
 
 ---
