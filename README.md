@@ -63,6 +63,19 @@ project-directory/
 
 6. Access the website in your browser using the Ngrok URL.
 
+![image](https://github.com/user-attachments/assets/27fe6355-89fa-4787-b2f7-91b7799017e2)
+
+   
+7. Entering credentials in the login page.
+
+![image](https://github.com/user-attachments/assets/b7f2113c-ec58-409b-90c5-f09c2c403ac4)
+
+
+8. After clicking Login" check the newly created "pwned.txt" file in your local machine.
+
+![image](https://github.com/user-attachments/assets/ea6ef9b4-fb07-4f59-a297-9fb388770c87)
+
+
 ---
 
 ## Code Highlights
