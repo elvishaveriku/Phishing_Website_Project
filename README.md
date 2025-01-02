@@ -41,7 +41,7 @@ project-directory/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo-url.git](https://github.com/elvishaveriku/Phishing_Website_Project.git)
+   git clone https://github.com/elvishaveriku/Phishing_Website_Project.git
    cd phishing_website_project
    ```
 
