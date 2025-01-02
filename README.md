@@ -1,4 +1,4 @@
-# Project: Building a phishing website using Flask and Ngrok
+# Project: Phishing website using Flask and Ngrok
 
 ## Overview
 This repository contains a Flask-based website that implements a simple login functionality. The website allows users to submit login credentials through a web interface and processes the data on the backend. The website is deployed online using Ngrok. This project serves as an example on how to gather user information through a malicious web page login form that saves user data into a local text file.
