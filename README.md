@@ -63,7 +63,8 @@ project-directory/
 
 6. Access the website in your browser using the Ngrok URL.
 
-Default URL is: badly-climbing-loon.ngrok-free.app
+Default URL is: badly-climbing-loon.ngrok-free.app .
+
 We can use Tinyurl to mask the default URL. New URL is: https://tinyurl.com/3dyd3n96
 
 ![image](https://github.com/user-attachments/assets/27fe6355-89fa-4787-b2f7-91b7799017e2)
